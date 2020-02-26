@@ -4,6 +4,8 @@ adding line 2
 <<<<<<< HEAD
 adding line 3
 adding line 4
+edit 5 
+edit 6
 =======
 >>>>>>> parent of 122d68a... Adding line 2
 =======
